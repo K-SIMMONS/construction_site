@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+  }
+  
+  .first_cont {
+    background-color: transparent;
+    color: darkslategray;
+  }
+  
+  /* #first_text{
+    font-size: 3.0rem;
+  } */
+  /* 
+  .free{
+    margin-top: 40%;
+  } */
+  
+  .icon{
+    background-color: #FF5500;
+    color: white;
+    font-size: 30px;
+  }
